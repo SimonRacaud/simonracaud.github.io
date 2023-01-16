@@ -1,30 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Swity
+    # i18n: company_a
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Project manager
+    # i18n: company_a_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Sept. 2021
+    # i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: End-of-studies project
+    # i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Acklio
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Embeded system developer for IoT systems
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Apr. 2022
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Internship
+  icon: fa-plus-square
+
+- name:
+    detail: Ionis STM
+  desc:
+    detail: Pedagogical assistant - IT department
+  date:
+    detail: Feb. 2021
+  job:
+    detail: Part time
+  icon: fa-plus-square
+
+- name:
+    detail: PoC Innovation
+  desc:
+    detail: Member of a student association specialising in innovation. 
+  date:
+    detail: March. 2021
+  job:
+    detail: Association
+  icon: fa-plus-square
+
+- name:
+    detail: Follow Health
+  desc:
+    detail: Full-stack developper and conception on a patient monitoring application for surgeons
+  date:
+    detail: Jul. 2020
+  job:
+    detail: Internship
   icon: fa-plus-square
