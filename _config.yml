@@ -4,9 +4,10 @@
 title: Simon RACAUD
 description: RACAUD Simon's portfolio
 keywords: blog,github,gh-pages,portfolio,simon,racaud
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://simonracaud.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-#url: http://127.0.0.1:4000/
+baseurl: /home
+#baseurl: / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+#url: https://simonracaud.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://127.0.0.1:4000/home
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -31,13 +32,13 @@ author:  # change following line to your infomation.
   desc: Student specialized in embedded system programming.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: jalpc
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id: # User ID
+  id: G-NHQ9FSC3B5 # User ID
 
 ## google optimize
 go:
