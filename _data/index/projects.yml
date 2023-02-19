@@ -2,9 +2,123 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Work in progress
-#  i18n: jalpc
-  gh_user: simonracaud
-  repo: simonracaud.github.io
-  img: /static/assets/img/landing/jekyll.png
-  desc: Section to complete
+- name: Transcan Editor - 2022-2023
+  gh_user: SimonRacaud
+  repo:
+  #repo: TranscanEditor
+  img: /static/assets/img/landing/project_transcan.png
+  desc: Assisted Comics translation with AI
+
+- name: Lambda Calculus calculator - 2022
+  gh_user: SimonRacaud
+  repo: Haskell_Lambda-Calculus
+  img: /static/assets/img/landing/project_haskell.png
+  desc: Haskell lambda calculus expression parsers
+
+- name: Acklio - 2022
+  gh_user: SimonRacaud
+  repo: 
+  img: /static/assets/img/landing/project_acklio.jpeg
+  desc: Implementation of an extension of SCHC' fragmentation protocol
+
+- name: D3TI - 2022
+  gh_user: SimonRacaud
+  repo: D3TI-Terrestrial-Drone
+  img: /static/assets/img/landing/project_d3ti.png
+  desc: Terrestrial drone - Robotics
+
+- name: Game Engine RType - 2021
+  gh_user: SimonRacaud
+  repo: RType_Game-Engine
+  img: /static/assets/img/landing/project_rtype.png
+  desc: Custom Game Engine supporting networked multiplayer
+
+- name: Electronic circuit simulator - 2021
+  gh_user: SimonRacaud
+  repo: ElectronicCircuitSimulator
+  img: /static/assets/img/landing/project_circuit.png
+  desc: Basic electronic circuit simulator
+
+- name: Redditech - 2021
+  gh_user: SimonRacaud
+  repo: Redditech
+  img: /static/assets/img/landing/project_reddit.png
+  desc: Reddit API mobile client for Android
+
+- name: Assembly light C library - 2021
+  gh_user: SimonRacaud
+  repo: Assembly_Mini-libc
+  img: /static/assets/img/landing/project_assembly.png
+  desc: Rewriting some of the C standard library functions in Assembly language
+
+- name: Teams messaging application - 2021
+  gh_user: SimonRacaud
+  repo: Teams
+  img: /static/assets/img/landing/project_message.png
+  desc: TCP socket CLI messaging application
+
+- name: FTP server - 2021
+  gh_user: SimonRacaud
+  repo: FTP-Server
+  img: /static/assets/img/landing/project_ftp.jpg
+  desc: Linux FTP server in C
+
+- name: Linux Trojan - 2021
+  gh_user: SimonRacaud
+  repo: LINUX_Trojan
+  img: /static/assets/img/landing/project_trojan.png
+  desc: Remote control shell daemon
+
+- name: FTrace - 2021
+  gh_user: SimonRacaud
+  repo: ftrace
+  img: /static/assets/img/landing/project_ftrace.png
+  desc: Linux executable real-time function tracer
+
+- name: Custom Linux allocation library - 2021
+  gh_user: SimonRacaud
+  repo:  UNIX_malloc
+  img: /static/assets/img/landing/project_malloc.png
+  desc: Rewriting memory allocation functions with customized architecture
+
+- name: nm objdump - 2021
+  gh_user: SimonRacaud
+  repo: nm-objdump
+  img: /static/assets/img/landing/project_nmobjdump.png
+  desc: Linux ELF executable file analyser
+
+- name: Babel audio streaming application  - 2021
+  gh_user: SimonRacaud
+  repo: Babel
+  img: /static/assets/img/landing/project_babel.png
+  desc: UDP audio streaming application
+
+- name: Follow Health - 2020
+  gh_user: SimonRacaud
+  repo: 
+  img: /static/assets/img/landing/project_follow.png
+  desc: AI for documents recommendation, and a system of medical data exportation
+
+- name: World ISO simulator - 2020
+  gh_user: SimonRacaud
+  repo:  My_world_MUL_2019
+  img: /static/assets/img/landing/project_myworld.png
+  desc: 3D isometric map viewer and editor
+
+- name: LowerShell - 2020
+  gh_user: SimonRacaud
+  repo: 42sh
+  img: /static/assets/img/landing/project_42sh.png
+  desc: Linux shell inspired by TCSH
+
+- name: Connected beehive - 2019
+  gh_user: SimonRacaud
+  repo: Connected_beehive
+  img: /static/assets/img/landing/project_hive.png
+  desc: Smart hive with sensors, connected to a web and mobile application
+
+- name: ESA Astro PI Challenge - 2018-19
+  gh_user: SimonRacaud
+  repo: spacethon
+  img: /static/assets/img/landing/project_astropi.jpg
+  desc: Project for a contest of the European Space Agency (won)
