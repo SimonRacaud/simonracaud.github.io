@@ -7,7 +7,7 @@
   repo:
   #repo: TranscanEditor
   img: /static/assets/img/landing/project_transcan.png
-  desc: Assisted Comics translation with AI
+  desc: (WIP) Assisted Comics translation with AI 
 
 - name: Lambda Calculus calculator - 2022
   gh_user: SimonRacaud
